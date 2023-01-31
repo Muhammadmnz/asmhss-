@@ -192,7 +192,7 @@ button:focus {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: #fff;
+	background: #1a1a1a;
 }
 
 .loader {
