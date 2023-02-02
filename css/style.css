@@ -657,7 +657,7 @@ a.navbar-brand img {
 .contact_bt {
     width: 180px;
     height: 50px;
-    background: #495057;
+    background: rgb(73, 80, 87);
     color: #fff;
     float: left;
     line-height: 50px;
