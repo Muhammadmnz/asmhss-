@@ -321,14 +321,16 @@ a.navbar-brand img {
      .contact_bt {
          width: 90px;
          height: 35px;
-         background: rgb(73, 80, 87);
-         color: #fff;
+         background: none;
+         color: hsl(186 100% 69%);
          float: left;
          line-height: 36px;
          text-align: center;
          font-size: 14px;
          font-weight: 300;
          margin-top: 5px;
+         border: 0.15em solid hsl(186, 100%, 69%);
+	     box-shadow: 0 0 25px 0 rgb(97 239 255 / 10%);
     }
      .top-header #navbar-wd {
          padding-right: 0;
