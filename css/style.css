@@ -657,8 +657,8 @@ a.navbar-brand img {
 .contact_bt {
     width: 180px;
     height: 50px;
-    background: rgb(73, 80, 87);
-    color: #fff;
+    background: none;
+    color: hsl(186 100% 69%);
     float: left;
     line-height: 50px;
     text-align: center;
@@ -666,9 +666,10 @@ a.navbar-brand img {
     font-weight: 500;
     margin-top: 50px;
     border-radius: 5px;
-    font-family: 'Times New Roman', Times, serif;
+	font-family: 'Times New Roman', Times, serif;
+	border: 0.15em solid hsl(186, 100%, 69%);
+	box-shadow: 0 0 25px 0 rgb(97 239 255 / 20%);
 }
-
 .contact_bt:hover,
 .contact_bt:focus {
     color: #fff;
