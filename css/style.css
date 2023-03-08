@@ -412,7 +412,7 @@ a.navbar-brand img {
 }
 
 .navbar-toggler {
-	border: 2px solid #18d26e !important;
+	border: 2px solid #61efff !important;
 	border-radius: 0;
 	margin: 15px 15px;
 	padding: 8px 8px;
@@ -423,7 +423,7 @@ a.navbar-brand img {
 }
 
 .navbar-toggler span {
-	background: #18d26e;
+	background: #61efff;
 	display: block;
 	width: 22px;
 	height: 2px;
@@ -444,11 +444,11 @@ a.navbar-brand img {
 }
 
 .navbar-toggler:hover {
-	border: 2px solid #18d26e;
+	border: 2px solid #61efff;
 }
 
 .navbar-toggler:hover span {
-	background: #18d26e;
+	background: #61efff;
 }
 
 .tab_menu {
